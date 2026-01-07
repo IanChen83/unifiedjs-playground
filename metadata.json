@@ -1,0 +1,5 @@
+{
+  "name": "Remark-Rehype Playground",
+  "description": "A visual playground to explore and manipulate the unified, remark, and rehype processor pipeline with custom plugins.",
+  "requestFramePermissions": []
+}
